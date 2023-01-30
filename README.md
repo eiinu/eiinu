@@ -25,3 +25,5 @@ Here are some ideas to get you started:
     style="flex: 1; height: 165px;"
   />
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,cpp,py,swift)](https://skillicons.dev)
