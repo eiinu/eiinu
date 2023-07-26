@@ -6,14 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,cpp,py,swift)](https://skillicons.dev)
 
-### Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eiinu/eiinu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eiinu/eiinu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eiinu/eiinu/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Top Languages
 
 <a href="https://github.com/surmon-china/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
